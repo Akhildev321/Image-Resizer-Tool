@@ -37,4 +37,3 @@ A simple yet powerful Python tool that batch-resizes and converts images to PNG 
 - Image resizing with the Pillow (`PIL`) library
 - Replacing deprecated `Image.ANTIALIAS` with `Image.Resampling.LANCZOS`
 - Writing readable and reusable code
-- Exception handling with `try-except` blocks
